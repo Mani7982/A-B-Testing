@@ -1,5 +1,4 @@
-# A/B Testing Eniac’s Homepage: Boosting Conversions  
-## Data Science Bootcamp Project – WBS Coding School  
+# A/B Testing Eniac’s Homepage:  
 
 ### **Welcome to the A/B Testing Project!**  
 This project focuses on improving Eniac’s website by testing variations of the “SHOP NOW” button to increase user engagement and iPhone 13 sales. Using data-driven decision-making, we aim to identify the best-performing button design.
